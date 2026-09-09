@@ -30,6 +30,7 @@ requirements:
     - uproot ==5.4.2
     - python-xrootd
     - fsspec-xrootd >=0.4
+    - apd
 
 test:
   imports:
